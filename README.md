@@ -1,0 +1,6 @@
+O projeto "Organizador de Estudo Semanal" foi desenvolvido com o propósito de estruturar e otimizar minha rotina de estudos. A proposta central é criar uma ferramenta pessoal e estratégica que funcione como guia na
+distribuição equilibrada das disciplinas ao longo da semana, considerando o volume de conteúdos, a complexidade de cada matéria e os horários disponíveis fora da escola. Para a execução do projeto, utilizei um planner
+digital personalizado, criado com bases nas minhas necessidades e metas escolares. Ele foi organizado por dias da semana e horários, com destaque para prazos, revisões e momentos de descanso, facilitando o 
+acompanhamento da rotina de forma prática e visual. Essa organização visa combater a desorganização e o acúmulo de tarefas, que são comuns durante o ano letivo, além de reduzir o estresse acadêmico e melhorar a 
+produtividade. O organizador também me ajuda a manter uma constância nos estudos, permitindo revisar conteúdos com mais frequência, antecipar prazos e preparar-se melhor para provas e avaliações. O objetivo principal
+do projeto é desenvolver autonomia, responsabilidade e disciplina no processo de aprendizagem, tornando o estudo um hábito mais eficiente, focado e sustentável ao longo do tempo.
